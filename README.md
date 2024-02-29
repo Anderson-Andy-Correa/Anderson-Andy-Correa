@@ -6,10 +6,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Andy-Correa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Andy-Correa&layout=compact&langs_count=7&theme=dracula"/>
     
-    
-  ![Snake animation](https://github.com/Anderson-Andy-Correa/Anderson-Andy-Correa/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 ##
   
 <div style="display: inline_block"><br>
@@ -23,11 +19,14 @@
 </div>
   
 <h2 align="center"> My Current Stack <br><br>
-<img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/HTML-FFB300?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-%230077B5?style=for-the-badge&logo=MySQL&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
   </h2>
  <br><br>
 
