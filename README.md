@@ -16,6 +16,7 @@ Currently studying the fourth semester of Analysis and Systems Development at Un
       <th>IntelliJ</th>
       <th>Python</th>
       <th>Pandas</th>
+      <th>NumPy</th>
       <th>Java</th>
       <th>Postman</th>
     </tr>
@@ -24,7 +25,8 @@ Currently studying the fourth semester of Analysis and Systems Development at Un
       <td><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="65" height="65" /></td>
       <td><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" width="65" height="65" /></td>
       <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></td>
-      <td><img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"/></td>
+      <td><img src="https://img.icons8.com/?size=65&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" width="65" height="65"/></td>
+      <td><img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" alt="Numpy" width="65" height="65"/></td>
       <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></td>
       <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" /></td>
     </tr>
@@ -32,7 +34,7 @@ Currently studying the fourth semester of Analysis and Systems Development at Un
 </div>
 
 <div align="center" style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1C8D5B&center=true&vCenter=true&width=500&height=100&lines=DataBase" alt="Typing SVG")/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4a7da4&center=true&vCenter=true&width=500&height=100&lines=DataBase" alt="Typing SVG")/>
 </div>
 
 <div align="center">
@@ -49,7 +51,7 @@ Currently studying the fourth semester of Analysis and Systems Development at Un
 </div>
 
 <div align="center" style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1C8D5B&center=true&vCenter=true&width=500&height=100&lines=Testing" alt="Typing SVG")/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ff6163&center=true&vCenter=true&width=500&height=100&lines=Testing" alt="Typing SVG")/>
 </div>
 
 <div align="center">
