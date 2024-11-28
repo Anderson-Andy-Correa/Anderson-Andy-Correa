@@ -1,4 +1,7 @@
-<h1 align="center">Anderson Corrêa</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Anderson-Andy-Correa/Anderson-Andy-Correa/main/name.svg" alt="Title name" />
+</h1>
+
 <h2 align="center"> Hi there 👋 I'm glad to see you here! </h2> 
 
 ## 🔍 About me:
