@@ -82,12 +82,6 @@ Currently studying the fourth semester of Analysis and Systems Development at Un
 </div>
 <br></br>
 
-<div align="center">
-  <a href="https://github.com/Anderson-Andy-Correa">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Andy-Correa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Andy-Correa&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anderson-Andy-Correa/Anderson-Andy-Correa/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anderson-Andy-Correa/Anderson-Andy-Correa/blob/output/github-contribution-grid-snake.svg" />
